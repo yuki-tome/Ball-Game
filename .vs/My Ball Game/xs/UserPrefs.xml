@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{BC8D756E-EE4D-C381-A1D5-2F774C0A76B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PaddleScript.cs">
+    <Files>
+      <File FileName="Assets/Script/PaddleScript.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My Ball Game" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e51b6ae0-4aac-4465-ad1c-cccab3a502a0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
